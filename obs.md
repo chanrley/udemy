@@ -11,3 +11,5 @@ git push -u origin main
 git remote add origin https://github.com/chanrley/udemy.git
 git branch -M main
 git push -u origin main
+
+caminho do powershell profiles: C:\Users\seu-user\Documents\PowerShell
