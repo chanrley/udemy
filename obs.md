@@ -16,3 +16,6 @@
     
 ## 19/06/26:
     Seção 5: 89: Apresentação do padrão Unit of Work
+
+## 20/06/26:
+    Seção 3: 16. Tipos básicos de dados em C# - PARTE 1
