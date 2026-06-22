@@ -325,11 +325,6 @@ C:\tools\udemy\17_Filtros2_N8\17_Filtros2_N8\17_Filtros_N8\APICatalogo\obj\Debug
 C:\tools\udemy\17_Filtros2_N8\17_Filtros2_N8\17_Filtros_N8\APICatalogo\obj\Debug\net8.0\APICatalogo.MvcApplicationPartsAssemblyInfo.cache
 C:\tools\udemy\17_Filtros2_N8\17_Filtros2_N8\17_Filtros_N8\APICatalogo\obj\Debug\net8.0\staticwebassets.build.json
 C:\tools\udemy\17_Filtros2_N8\17_Filtros2_N8\17_Filtros_N8\APICatalogo\obj\Debug\net8.0\staticwebassets.development.json
-C:\tools\udemy\17_Filtros2_N8\17_Filtros2_N8\17_Filtros_N8\APICatalogo\obj\Debug\net8.0\staticwebassets\msbuild.APICatalogo.Microsoft.AspNetCore.StaticWebAssets.props
-C:\tools\udemy\17_Filtros2_N8\17_Filtros2_N8\17_Filtros_N8\APICatalogo\obj\Debug\net8.0\staticwebassets\msbuild.build.APICatalogo.props
-C:\tools\udemy\17_Filtros2_N8\17_Filtros2_N8\17_Filtros_N8\APICatalogo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.APICatalogo.props
-C:\tools\udemy\17_Filtros2_N8\17_Filtros2_N8\17_Filtros_N8\APICatalogo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.APICatalogo.props
-C:\tools\udemy\17_Filtros2_N8\17_Filtros2_N8\17_Filtros_N8\APICatalogo\obj\Debug\net8.0\staticwebassets.pack.json
 C:\tools\udemy\17_Filtros2_N8\17_Filtros2_N8\17_Filtros_N8\APICatalogo\obj\Debug\net8.0\scopedcss\bundle\APICatalogo.styles.css
 C:\tools\udemy\17_Filtros2_N8\17_Filtros2_N8\17_Filtros_N8\APICatalogo\obj\Debug\net8.0\APICatal.C7776A93.Up2Date
 C:\tools\udemy\17_Filtros2_N8\17_Filtros2_N8\17_Filtros_N8\APICatalogo\obj\Debug\net8.0\APICatalogo.dll
@@ -337,3 +332,12 @@ C:\tools\udemy\17_Filtros2_N8\17_Filtros2_N8\17_Filtros_N8\APICatalogo\obj\Debug
 C:\tools\udemy\17_Filtros2_N8\17_Filtros2_N8\17_Filtros_N8\APICatalogo\obj\Debug\net8.0\APICatalogo.pdb
 C:\tools\udemy\17_Filtros2_N8\17_Filtros2_N8\17_Filtros_N8\APICatalogo\obj\Debug\net8.0\APICatalogo.genruntimeconfig.cache
 C:\tools\udemy\17_Filtros2_N8\17_Filtros2_N8\17_Filtros_N8\APICatalogo\obj\Debug\net8.0\ref\APICatalogo.dll
+C:\tools\udemy\17_Filtros2_N8\17_Filtros2_N8\17_Filtros_N8\APICatalogo\bin\Debug\net8.0\APICatalogo.staticwebassets.endpoints.json
+C:\tools\udemy\17_Filtros2_N8\17_Filtros2_N8\17_Filtros_N8\APICatalogo\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\tools\udemy\17_Filtros2_N8\17_Filtros2_N8\17_Filtros_N8\APICatalogo\obj\Debug\net8.0\APICatalogo.sourcelink.json
+C:\tools\udemy\17_Filtros2_N8\17_Filtros2_N8\17_Filtros_N8\APICatalogo\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\tools\udemy\17_Filtros2_N8\17_Filtros2_N8\17_Filtros_N8\APICatalogo\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\tools\udemy\17_Filtros2_N8\17_Filtros2_N8\17_Filtros_N8\APICatalogo\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\tools\udemy\17_Filtros2_N8\17_Filtros2_N8\17_Filtros_N8\APICatalogo\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\tools\udemy\17_Filtros2_N8\17_Filtros2_N8\17_Filtros_N8\APICatalogo\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\tools\udemy\17_Filtros2_N8\17_Filtros2_N8\17_Filtros_N8\APICatalogo\obj\Debug\net8.0\swae.build.ex.cache
